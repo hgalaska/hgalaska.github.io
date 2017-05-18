@@ -169,7 +169,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#dcdcd4",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -220,7 +220,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#dcdcd4",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -240,7 +240,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fingerfitting3-1400x858.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fingerfitting-1400x846.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -543,7 +543,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8313.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -785,7 +785,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8313.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1005,7 +1005,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8313.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1103,7 +1103,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x157111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x157114.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1114,7 +1114,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x157112.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x157115.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1125,7 +1125,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x157111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x157114.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1236,7 +1236,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8313.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "contact-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -274,8 +274,8 @@
           },
           "_anchor": "contacts1-o",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -465,8 +465,8 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "<br>Empowering Agriculture<br><br><span style=\"font-weight: normal;\">Since 1991</span>",
-          "text": "<p><br>Alaska is led by highly qualified technocrats with wide experience in their areas of operation, thus providing an ideal combination of man and machine with our stress on R&amp;D and continuous refinement of production methods, the Alaska brand is now synonymous with quality. &nbsp;Fine tuned to every global change in the industry, Alaska aims to strengthen it's market presence by continuously increasing its market share.</p><p><br><b>Vision:</b><br>To deliver service of unparalleled quality as the world’s leading Engineered Components suppliers, empowering our diverse client base with a comprehensive and dynamic skill set of expertise, experience and innovation.<br><br><b>Mission:</b><br>Combining the strategic resources of the exports with our professional expertise to create value for our clients, our people and our promoters.<br><br><b>Core Values:&nbsp;</b><br></p><p>As a Team, We value:<br>&nbsp; &nbsp;• Integrity • Professionalism • Teamwork • Mutual respect<br>        In serving our clients, we aim to be:<br>&nbsp; &nbsp;•&nbsp;Dedicated • Competitive • Innovative • Value-adding<br> <br>Alaska focuses on establishing long-term client relationships built on service excellence, quality work, integrity and trust. &nbsp;We are exporting to USA, Europe, Asia, Africa and Middle-east etc. due to high confidence in us by our valued clients.<br></p>",
+          "title": "<span style=\"font-family: inherit; font-size: 46px;\">Empowering Agriculture</span><br><br><span style=\"font-weight: normal;\">Since 1991</span>",
+          "text": "<p><br>Alaska is led by highly qualified technocrats with wide experience in their areas of operation, thus providing an ideal combination of man and machine with our stress on R&amp;D and continuous refinement of production methods, the Alaska brand is now synonymous with quality. &nbsp;Fine tuned to every global change in the industry, Alaska aims to strengthen it's market presence by continuously increasing its market share.</p><p><br><b>Vision:</b><br>To deliver service of unparalleled quality as the world’s leading Engineered Components suppliers, empowering our diverse client base with a comprehensive and dynamic skill set of expertise, experience and innovation.<br><br><b>Mission:</b><br>Combining the strategic resources of the exports with our professional expertise to create value for our clients, our people and our promoters.<br><br><b>Core Values:&nbsp;</b><br></p><p>As a Team, We value:<br>&nbsp; &nbsp;• Integrity • Professionalism • Teamwork • Mutual respect<br>        In serving our clients, we aim to be:<br>&nbsp; &nbsp;•&nbsp;Dedicated • Competitive • Innovative • Value-adding<br> <br>Alaska focuses on establishing long-term client relationships built on service excellence, quality work, integrity and trust. &nbsp;We are exporting to USA, Europe, Asia, Africa and Middle-east etc. due to high confidence in us by our valued clients.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -486,8 +486,8 @@
           },
           "_anchor": "contacts1-o",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -724,8 +724,8 @@
           },
           "_anchor": "contacts1-10",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -940,8 +940,8 @@
           },
           "_anchor": "contacts1-16",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1166,8 +1166,8 @@
           },
           "_anchor": "contacts1-1b",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",

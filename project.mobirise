@@ -33,18 +33,18 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#70ab9e"
+              "background": "#a9e6d9"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#63a395"
+              "background": "#99e1d2"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -53,14 +53,14 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0",
           "_params": {
-            "bgColor": "#70ab9e",
+            "bgColor": "#a9e6d9",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": false,
             "sticky": false,
             "logo": true,
@@ -70,7 +70,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-420x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -80,7 +80,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -317,7 +317,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#02735b",
+            "bgColor": "#00604b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -381,14 +381,14 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-2",
           "_params": {
-            "bgColor": "#70ab9e",
+            "bgColor": "#a9e6d9",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": false,
             "sticky": false,
             "logo": true,
@@ -534,7 +534,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#02735b",
+            "bgColor": "#00604b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -598,14 +598,14 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-x",
           "_params": {
-            "bgColor": "#70ab9e",
+            "bgColor": "#a9e6d9",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": false,
             "sticky": false,
             "logo": true,
@@ -625,7 +625,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -776,7 +776,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#02735b",
+            "bgColor": "#00604b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -840,14 +840,14 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-13",
           "_params": {
-            "bgColor": "#70ab9e",
+            "bgColor": "#a9e6d9",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": false,
             "sticky": false,
             "logo": true,
@@ -996,7 +996,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#02735b",
+            "bgColor": "#00604b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1060,14 +1060,14 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-18",
           "_params": {
-            "bgColor": "#70ab9e",
+            "bgColor": "#a9e6d9",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": false,
             "sticky": false,
             "logo": true,
@@ -1087,7 +1087,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -1102,7 +1102,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15716.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1113,7 +1113,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x15715.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x15717.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1124,7 +1124,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15716.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1227,7 +1227,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#02735b",
+            "bgColor": "#00604b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

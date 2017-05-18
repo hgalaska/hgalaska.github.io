@@ -11,20 +11,20 @@
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-0 .navbar,
 #dropdown-menu-0 .dropdown-menu {
-  background: #70ab9e;
+  background: #a9e6d9;
 }
 #dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-0 .dropdown-menu a:hover,
 #dropdown-menu-0 .dropdown-menu a:focus {
-  background: #63a395;
+  background: #99e1d2;
 }
 #dropdown-menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box3-l .mbr-header .mbr-header__text {
   text-align: left;

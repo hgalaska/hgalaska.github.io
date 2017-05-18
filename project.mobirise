@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "index.html",
+    "currentPage": "contact-us.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1051,7 +1051,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1061,8 +1061,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1072,8 +1072,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1143,7 +1143,7 @@
           "_anchor": "map2-1e",
           "_params": {
             "googleMap": {
-              "address": "Alaska Exports greater noida",
+              "address": "alaska exports greater noida",
               "placeId": "ChIJfUOz9l7ADDkR6v1Na2V1MTs",
               "state": "ok",
               "stateDetails": ""

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "index.html",
+    "currentPage": "contact-us.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1143,9 +1143,10 @@
           "_anchor": "map2-1e",
           "_params": {
             "googleMap": {
-              "address": "Alaska Exports, D-20, E.P.I.P., Surajpur Site V, Greater Noida 201310, Delhi-NCR, India",
-              "placeId": "",
-              "state": "loading"
+              "address": "Alaska Exports greater noida",
+              "placeId": "ChIJfUOz9l7ADDkR6v1Na2V1MTs",
+              "state": "ok",
+              "stateDetails": ""
             }
           }
         },

@@ -1,0 +1,1395 @@
+{
+  "settings": {
+    "name": "harvesterfinger",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 52,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/ae-1-128x122.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Harvester Fingers",
+        "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x1572.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x1572.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x1572.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-p",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "color": "#777777"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-l",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "Welcome to House of Alaska Exports",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>We are one of the manufacturer of Harvester Fingers in India. &nbsp;We are exporting our products to more then 30 countries worldwide.  Our products are widely appreciated in international markets due to our high quality standards and wide range of manufacturing capability.<br></p><p><b><u>Alaska Quality Policy</u></b><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ----- Quality Goes In Before The Name Goes On -----<br></p><p>All Finger and Blades are parts of any cutting system and they should replaced after a certain time of usage.   We follow stringent quality inspection to ensure durability and dependability of our products.  Alaska Fingers are in demand due to our  qualities.<br></p><ul><li><b>Cost Efficiency</b></li><li><b>Ruggedness</b></li><li><b>Easy Installation and Maintenance</b></li></ul><p><b>HEAT TREATMENT PROCESSES</b><br></p><p>Most heat treatement processes consist of heating and either quickly or slowly cooling the specific part.  This heating and cooling process may be done overall or targeted to specific area.<br></p><p>Alaska forged fingers are heat- treated using one or a combination of these two heat treatment process.</p><p><b><u>Thru-Hardening: </u></b>This process is an overall hardening of the part. With heating and then subsequent cooling an outer hardening of the part occurs.<br></p><p><b><u>Induction Hardening: </u></b>The forging is heated in a more targeted fashion, first using an electrical current to heat the targeted areas, following which the part is then quenched, or cooled very quickly.  This causes the carbon steel atoms to fuse in the targeted area providing the hardness and durability these high friction areas require.<br></p><p><b>FINGER MOUNTING AND FUNCTION</b><br></p><p>Adjustable hold-down clip helps control optimum cutting distance between the cutting section and the finger.  It is important to keep the cutting section moving freely and as close to the finger cut off surface as possible, since a gap between the cutting section and the finger cut off surface will not provide a clean cut.  Proper clearance between the hold-down clip and the cutting section prevents excessive wear.<br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".mbr-article P": {
+              "font-size": "24px"
+            },
+            ".mbr-article H2": {
+              "color": "#252525",
+              "text-align": "left"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-m",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fingerfitting3-1400x858.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h1></h1><h2><i style=\"font-weight: normal;\">Proper adjustment of the hold-down clip and high quality Alaska Fingers will result in longer cutting life during the harvest.</i></h2><br><br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "about-us.html": {
+      "settings": {
+        "title": "About Us",
+        "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-2",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-q",
+          "articleLayout": false
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "46px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "23px",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "<br>Empowering Agriculture<br><br><span style=\"font-weight: normal;\">Since 1991</span>",
+          "text": "<p><br>Alaska is led by highly qualified technocrats with wide experience in their areas of operation, thus providing an ideal combination of man and machine with our stress on R&amp;D and continuous refinement of production methods, the Alaska brand is now synonymous with quality. &nbsp;Fine tuned to every global change in the industry, Alaska aims to strengthen it's market presence by continuously increasing its market share.</p><p><br><b>Vision:</b><br>To deliver service of unparalleled quality as the world’s leading Engineered Components suppliers, empowering our diverse client base with a comprehensive and dynamic skill set of expertise, experience and innovation.<br><br><b>Mission:</b><br>Combining the strategic resources of the exports with our professional expertise to create value for our clients, our people and our promoters.<br><br><b>Core Values:&nbsp;</b><br></p><p>As a Team, We value:<br>&nbsp; &nbsp;• Integrity • Professionalism • Teamwork • Mutual respect<br>        In serving our clients, we aim to be:<br>&nbsp; &nbsp;•&nbsp;Dedicated • Competitive • Innovative • Value-adding<br> <br>Alaska focuses on establishing long-term client relationships built on service excellence, quality work, integrity and trust. &nbsp;We are exporting to USA, Europe, Asia, Africa and Middle-east etc. due to high confidence in us by our valued clients.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "product.html": {
+      "settings": {
+        "title": "Product",
+        "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-r",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-s",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-12",
+          "_params": {
+            "outside": false,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-u",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "harvester-finger.html": {
+      "settings": {
+        "title": "Harvester Finger",
+        "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-x",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-y",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "AE<br>3820015",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-2000x1850-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-2000x1850.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE<br>522182<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-1-2000x1850-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-1-2000x1850.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-2-2000x1850-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x1850.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-3-2000x1850-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-3-2000x1850.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-4-2000x1850-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-4-2000x1850.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-5-2000x1850-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-5-2000x1850.jpg",
+                "active": false
+              },
+              {
+                "caption": "379720",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-2000x1855-800x742.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-2000x1855.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-6-2000x1850-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-6-2000x1850.jpg",
+                "active": false
+              },
+              {
+                "caption": "J20066",
+                "thumb": "@PROJECT_PATH@/assets/images/finger-1-2000x1855-800x742.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finger-1-2000x1855.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-11",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-10",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "feedback.html": {
+      "settings": {
+        "title": "Feedback",
+        "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-13",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-14",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "FEEDBACK FORM",
+          "form": {
+            "action": "info@alaskaexportsindia.com",
+            "alerts": {
+              "success": "Thanks for filling feedback form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-16",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "contact-us.html": {
+      "settings": {
+        "title": "Contact Us",
+        "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-18",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\">HARVESTER FINGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-19",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-size": "23px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1f",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "ALASKA EXPORTS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>D-20, E.P.I.P. SURAJPUR SITE -V, KASNA,</p><p>GREATER NOIDA 201310 (DELHI-NCR)(INDIA)<br></p><p>Tel : +91-120-2428700 (32 Lines)&nbsp;<br></p><p>Fax: +91-120-2428701<br></p><p>E-mail: info@alaskaexportsindia.com</p><p><br></p><p>Open: Monday - Saturday</p><p>Timing: 9am - 6pm</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1e",
+          "_params": {
+            "googleMap": {
+              "address": "Alaska Exports, D-20, E.P.I.P., Surajpur Site V, Greater Noida 201310, Delhi-NCR, India",
+              "placeId": "",
+              "state": "loading"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-1b",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    }
+  }
+}

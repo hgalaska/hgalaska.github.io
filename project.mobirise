@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "contact-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -128,7 +128,7 @@
               }
             ],
             "fullScreen": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#333333",
             "showBullets": true
           },
           "_anchor": "slider-p",

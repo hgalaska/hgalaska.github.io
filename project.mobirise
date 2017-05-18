@@ -38,10 +38,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#70ab9e"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#63a395"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -53,8 +53,8 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
+            "bgColor": "#70ab9e",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -169,7 +169,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -289,7 +289,7 @@
               "loop": false
             }
           },
-          "text": "Cut down the development time with drag-and-drop website builder."
+          "text": ""
         },
         {
           "_tags": [
@@ -317,7 +317,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "bgColor": "#02735b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -381,8 +381,8 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-2",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
+            "bgColor": "#70ab9e",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -489,7 +489,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "images/bg5.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -534,7 +534,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "bgColor": "#02735b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -598,8 +598,8 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-x",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
+            "bgColor": "#70ab9e",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -776,7 +776,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "bgColor": "#02735b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -840,8 +840,8 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-13",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
+            "bgColor": "#70ab9e",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -933,7 +933,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -996,7 +996,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "bgColor": "#02735b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1060,8 +1060,8 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-18",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
+            "bgColor": "#70ab9e",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1102,7 +1102,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15712.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1113,7 +1113,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x15713.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x15715.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1124,7 +1124,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15712.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1169,7 +1169,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1227,7 +1227,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
+            "bgColor": "#02735b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

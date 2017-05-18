@@ -868,7 +868,7 @@
               }
             ],
             "fullScreen": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#333333",
             "showBullets": true
           },
           "_anchor": "slider-14",
@@ -1084,7 +1084,7 @@
               }
             ],
             "fullScreen": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#333333",
             "showBullets": true
           },
           "_anchor": "slider-19",

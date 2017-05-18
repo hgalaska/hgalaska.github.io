@@ -35,8 +35,11 @@
 }
 #msg-box3-l .mbr-article P {
   text-align: left;
-  color: #777777;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
+}
+#msg-box3-l .mbr-article UL {
+  color: #000000;
 }
 #msg-box4-m .mbr-header__text {
   color: #ffffff;

@@ -146,9 +146,12 @@
             },
             ".mbr-article P": {
               "text-align": "left",
-              "color": "#777777",
+              "color": "#000000",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-article UL": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -166,7 +169,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -217,7 +220,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -269,7 +272,7 @@
           "_name": "video1",
           "_anchor": "video1-1o",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#333333",
             "showText": false
           },
           "media": {
@@ -1099,7 +1102,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15712.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1110,7 +1113,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x15711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x15713.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1121,7 +1124,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15712.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",

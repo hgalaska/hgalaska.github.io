@@ -38,10 +38,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#a9e6d9"
+              "background": "#2cb698"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#99e1d2"
+              "background": "#28a68a"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -53,7 +53,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-0",
           "_params": {
-            "bgColor": "#a9e6d9",
+            "bgColor": "#2cb698",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -382,7 +382,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-2",
           "_params": {
-            "bgColor": "#a9e6d9",
+            "bgColor": "#2cb698",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -543,7 +543,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -599,7 +599,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-x",
           "_params": {
-            "bgColor": "#a9e6d9",
+            "bgColor": "#2cb698",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -785,7 +785,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -841,7 +841,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-13",
           "_params": {
-            "bgColor": "#a9e6d9",
+            "bgColor": "#2cb698",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -1005,7 +1005,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1061,7 +1061,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-18",
           "_params": {
-            "bgColor": "#a9e6d9",
+            "bgColor": "#2cb698",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto",
@@ -1103,7 +1103,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15718.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x157111.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1114,7 +1114,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x15719.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x157112.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1125,7 +1125,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15718.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x157111.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1236,7 +1236,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x83.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x8310.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,

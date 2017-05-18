@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "contact-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 57,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/ae-1-128x122.png",
     "noImageResize": ""
@@ -95,7 +95,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x1572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -105,8 +105,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x1572.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -116,8 +116,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x1572.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -131,7 +131,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-p",
+          "_anchor": "slider-1k",
           "articleLayout": false
         },
         {
@@ -146,7 +146,9 @@
             },
             ".mbr-article P": {
               "text-align": "left",
-              "color": "#777777"
+              "color": "#777777",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_tags": [
@@ -178,7 +180,7 @@
           },
           "title": "Welcome to House of Alaska Exports",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>We are one of the manufacturer of Harvester Fingers in India. &nbsp;We are exporting our products to more then 30 countries worldwide.  Our products are widely appreciated in international markets due to our high quality standards and wide range of manufacturing capability.<br></p><p><b><u>Alaska Quality Policy</u></b><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ----- Quality Goes In Before The Name Goes On -----<br></p><p>All Finger and Blades are parts of any cutting system and they should replaced after a certain time of usage.   We follow stringent quality inspection to ensure durability and dependability of our products.  Alaska Fingers are in demand due to our  qualities.<br></p><ul><li><b>Cost Efficiency</b></li><li><b>Ruggedness</b></li><li><b>Easy Installation and Maintenance</b></li></ul><p><b>HEAT TREATMENT PROCESSES</b><br></p><p>Most heat treatement processes consist of heating and either quickly or slowly cooling the specific part.  This heating and cooling process may be done overall or targeted to specific area.<br></p><p>Alaska forged fingers are heat- treated using one or a combination of these two heat treatment process.</p><p><b><u>Thru-Hardening: </u></b>This process is an overall hardening of the part. With heating and then subsequent cooling an outer hardening of the part occurs.<br></p><p><b><u>Induction Hardening: </u></b>The forging is heated in a more targeted fashion, first using an electrical current to heat the targeted areas, following which the part is then quenched, or cooled very quickly.  This causes the carbon steel atoms to fuse in the targeted area providing the hardness and durability these high friction areas require.<br></p><p><b>FINGER MOUNTING AND FUNCTION</b><br></p><p>Adjustable hold-down clip helps control optimum cutting distance between the cutting section and the finger.  It is important to keep the cutting section moving freely and as close to the finger cut off surface as possible, since a gap between the cutting section and the finger cut off surface will not provide a clean cut.  Proper clearance between the hold-down clip and the cutting section prevents excessive wear.<br></p><p><br></p>",
+          "text": "<p>We are one of the leading manufacturer of Harvester Fingers in India and are exporting our products worldwide. &nbsp;Our products are widely appreciated in international markets due to our high quality standards and wide range of manufacturing capability.<br></p><p><b><u>Alaska Quality Policy</u></b><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ----- Quality Goes In Before The Name Goes On -----<br></p><p>All Finger and Blades are parts of any cutting system and they should replaced after a certain time of usage.   We follow stringent quality inspection to ensure durability and dependability of our products.  Alaska Fingers are in demand due to our  qualities.<br></p><ul><li><b>Cost Efficiency</b></li><li><b>Ruggedness</b></li><li><b>Easy Installation and Maintenance</b></li></ul><p><b>HEAT TREATMENT PROCESSES</b><br></p><p>Most heat treatement processes consist of heating and either quickly or slowly cooling the specific part.  This heating and cooling process may be done overall or targeted to specific area.<br></p><p>Alaska forged fingers are heat- treated using one or a combination of these two heat treatment process.</p><p><b><u>Thru-Hardening: </u></b>This process is an overall hardening of the part. With heating and then subsequent cooling an outer hardening of the part occurs.<br></p><p><b><u>Induction Hardening: </u></b>The forging is heated in a more targeted fashion, first using an electrical current to heat the targeted areas, following which the part is then quenched, or cooled very quickly.  This causes the carbon steel atoms to fuse in the targeted area providing the hardness and durability these high friction areas require.<br></p><p><b>FINGER MOUNTING AND FUNCTION</b><br></p><p>Adjustable hold-down clip helps control optimum cutting distance between the cutting section and the finger.  It is important to keep the cutting section moving freely and as close to the finger cut off surface as possible, since a gap between the cutting section and the finger cut off surface will not provide a clean cut.  Proper clearance between the hold-down clip and the cutting section prevents excessive wear.<br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -201,7 +203,9 @@
             },
             ".mbr-article H2": {
               "color": "#252525",
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_name": "msg-box4",
@@ -265,11 +269,15 @@
           "_styles": {
             "P": {
               "font-size": "12px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
               "font-size": "14px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "contacts1-o",
@@ -385,7 +393,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -395,8 +403,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -406,8 +414,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -421,7 +429,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-q",
+          "_anchor": "slider-1j",
           "articleLayout": false
         },
         {
@@ -439,10 +447,11 @@
             "P": {
               "text-align": "left",
               "font-size": "23px",
-              "color": "#000000"
+              "color": "#333333"
             },
             "SPAN": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#333333"
             }
           },
           "_anchor": "header1-8",
@@ -465,8 +474,8 @@
             "showButtons": false,
             "showArrow": true
           },
-          "title": "<span style=\"font-family: inherit; font-size: 46px;\">Empowering Agriculture</span><br><br><span style=\"font-weight: normal;\">Since 1991</span>",
-          "text": "<p><br>Alaska is led by highly qualified technocrats with wide experience in their areas of operation, thus providing an ideal combination of man and machine with our stress on R&amp;D and continuous refinement of production methods, the Alaska brand is now synonymous with quality. &nbsp;Fine tuned to every global change in the industry, Alaska aims to strengthen it's market presence by continuously increasing its market share.</p><p><br><b>Vision:</b><br>To deliver service of unparalleled quality as the world’s leading Engineered Components suppliers, empowering our diverse client base with a comprehensive and dynamic skill set of expertise, experience and innovation.<br><br><b>Mission:</b><br>Combining the strategic resources of the exports with our professional expertise to create value for our clients, our people and our promoters.<br><br><b>Core Values:&nbsp;</b><br></p><p>As a Team, We value:<br>&nbsp; &nbsp;• Integrity • Professionalism • Teamwork • Mutual respect<br>        In serving our clients, we aim to be:<br>&nbsp; &nbsp;•&nbsp;Dedicated • Competitive • Innovative • Value-adding<br> <br>Alaska focuses on establishing long-term client relationships built on service excellence, quality work, integrity and trust. &nbsp;We are exporting to USA, Europe, Asia, Africa and Middle-east etc. due to high confidence in us by our valued clients.</p>",
+          "title": "<span style=\"font-family: inherit; font-size: 46px;\">Empowering Agriculture</span><br><br><span style=\"font-weight: normal;\">Since 1991</span><br><span style=\"font-weight: normal;\"><br></span>",
+          "text": "<p><span style=\"font-size: 23px;\">Alaska is led by highly qualified technocrats with wide experience in their areas of operation, thus providing an ideal combination of man and machine with our stress on R&amp;D and continuous refinement of production methods, the Alaska brand is now synonymous with quality. &nbsp;Fine tuned to every global change in the industry, Alaska aims to strengthen it's market presence by continuously increasing its market share.</span><br></p><p><br><b>Vision:</b><br>To deliver service of unparalleled quality as the world’s leading Engineered Components suppliers, empowering our diverse client base with a comprehensive and dynamic skill set of expertise, experience and innovation.<br><br><b>Mission:</b><br>Combining the strategic resources of the exports with our professional expertise to create value for our clients, our people and our promoters.<br><br><b>Core Values:&nbsp;</b><br></p><p>As a Team, We value:<br>&nbsp; &nbsp;• Integrity • Professionalism • Teamwork • Mutual respect<br>        In serving our clients, we aim to be:<br>&nbsp; &nbsp;•&nbsp;Dedicated • Competitive • Innovative • Value-adding<br> <br>Alaska focuses on establishing long-term client relationships built on service excellence, quality work, integrity and trust. &nbsp;We are exporting to USA, Europe, Asia, Africa and Middle-east etc. due to high confidence in us by our valued clients.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -477,11 +486,15 @@
           "_styles": {
             "P": {
               "font-size": "12px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
               "font-size": "14px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "contacts1-o",
@@ -597,7 +610,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -607,8 +620,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -618,8 +631,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -633,7 +646,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-y",
+          "_anchor": "slider-1h",
           "articleLayout": false
         },
         {
@@ -715,11 +728,15 @@
           "_styles": {
             "P": {
               "font-size": "12px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
               "font-size": "14px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "contacts1-10",
@@ -835,7 +852,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -845,8 +862,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x15721.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -856,8 +873,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/finger1-2000x15720.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -871,7 +888,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-14",
+          "_anchor": "slider-1g",
           "articleLayout": false
         },
         {
@@ -931,11 +948,15 @@
           "_styles": {
             "P": {
               "font-size": "12px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
               "font-size": "14px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "contacts1-16",
@@ -1051,7 +1072,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15710.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1062,7 +1083,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x15711.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1073,7 +1094,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15710.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1158,11 +1179,15 @@
           "_styles": {
             "P": {
               "font-size": "12px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
               "font-size": "14px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "contacts1-1b",

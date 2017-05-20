@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "index.html",
+    "currentPage": "harvester-finger.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -390,7 +390,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
@@ -617,7 +622,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -654,7 +659,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
@@ -906,7 +916,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -943,7 +953,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
@@ -1173,7 +1188,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1210,7 +1225,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
@@ -1291,7 +1311,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1302,7 +1322,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x15712.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x15715.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1313,7 +1333,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1451,7 +1471,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1488,7 +1508,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     }

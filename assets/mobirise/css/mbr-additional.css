@@ -77,20 +77,20 @@
 #dropdown-menu-2 .nav .link,
 #dropdown-menu-2 .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-2 .navbar,
 #dropdown-menu-2 .dropdown-menu {
-  background: #333333;
+  background: #2cb698;
 }
 #dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2 .dropdown-menu a:hover,
 #dropdown-menu-2 .dropdown-menu a:focus {
-  background: #292929;
+  background: #28a68a;
 }
 #dropdown-menu-2 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #header1-8 H1 {
   text-align: left;
@@ -125,20 +125,20 @@
 #dropdown-menu-x .nav .link,
 #dropdown-menu-x .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-x .navbar,
 #dropdown-menu-x .dropdown-menu {
-  background: #333333;
+  background: #2cb698;
 }
 #dropdown-menu-x .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-x .dropdown-menu a:hover,
 #dropdown-menu-x .dropdown-menu a:focus {
-  background: #292929;
+  background: #28a68a;
 }
 #dropdown-menu-x .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-10 P {
   font-size: 12px;
@@ -159,20 +159,20 @@
 #dropdown-menu-13 .nav .link,
 #dropdown-menu-13 .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-13 .navbar,
 #dropdown-menu-13 .dropdown-menu {
-  background: #333333;
+  background: #2cb698;
 }
 #dropdown-menu-13 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-13 .dropdown-menu a:hover,
 #dropdown-menu-13 .dropdown-menu a:focus {
-  background: #292929;
+  background: #28a68a;
 }
 #dropdown-menu-13 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-16 P {
   font-size: 12px;
@@ -193,20 +193,20 @@
 #dropdown-menu-18 .nav .link,
 #dropdown-menu-18 .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-18 .navbar,
 #dropdown-menu-18 .dropdown-menu {
-  background: #333333;
+  background: #2cb698;
 }
 #dropdown-menu-18 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-18 .dropdown-menu a:hover,
 #dropdown-menu-18 .dropdown-menu a:focus {
-  background: #292929;
+  background: #28a68a;
 }
 #dropdown-menu-18 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box3-1f .mbr-header .mbr-header__text {
   text-align: left;

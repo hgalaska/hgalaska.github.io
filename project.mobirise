@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 61,
+    "uniqCompNum": 75,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/ae-1-128x122.png",
     "noImageResize": ""
@@ -296,6 +296,33 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#dcdcd4",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -314,7 +341,7 @@
           "_anchor": "contacts1-o",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -344,6 +371,26 @@
           "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00604b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -513,6 +560,33 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "social-buttons2-1z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#dcdcd4",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -531,7 +605,7 @@
           "_anchor": "contacts1-o",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -543,7 +617,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -561,6 +635,26 @@
           "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00604b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -755,6 +849,33 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "social-buttons2-20",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#dcdcd4",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -773,7 +894,7 @@
           "_anchor": "contacts1-10",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -785,7 +906,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -803,6 +924,26 @@
           "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00604b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -975,6 +1116,33 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "social-buttons2-21",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#dcdcd4",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_styles": {
             "P": {
@@ -993,7 +1161,7 @@
           "_anchor": "contacts1-16",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1005,7 +1173,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1023,6 +1191,26 @@
           "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00604b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -1103,7 +1291,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15717.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15711.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1114,7 +1302,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x15718.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x15712.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1125,7 +1313,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15717.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15711.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1184,23 +1372,50 @@
           },
           "title": "ALASKA EXPORTS",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>D-20, E.P.I.P. SURAJPUR SITE -V, KASNA,</p><p>GREATER NOIDA 201310 (DELHI-NCR)(INDIA)<br></p><p>Tel : +91-120-2428700 (32 Lines)&nbsp;<br></p><p>Fax: +91-120-2428701<br></p><p>E-mail: info@alaskaexportsindia.com</p><p><br></p><p>Open: Monday - Saturday</p><p>Timing: 9am - 6pm (IST)</p>",
+          "text": "<p>D-20, E.P.I.P. SURAJPUR SITE -V, KASNA,</p><p>GREATER NOIDA 201310 (DELHI-NCR)(INDIA)<br></p><p>Tel : +91-120-2428700 (32 Lines)&nbsp;<br></p><p>Fax: +91-120-2428701<br></p><p>E-mail: info@alaskaexportsindia.com</p><p><br></p><p>Open: Monday - Saturday</p><p>Timing: 9am - 6pm (GMT +5.5)</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "map2",
-          "_anchor": "map2-1e",
+          "_name": "map1",
+          "_anchor": "map1-1u",
           "_params": {
             "googleMap": {
-              "address": "alaska exports greater noida",
+              "address": "Alaska Exports greater noida",
               "placeId": "ChIJfUOz9l7ADDkR6v1Na2V1MTs",
               "state": "ok",
               "stateDetails": ""
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "social-buttons2-22",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#dcdcd4",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -1224,7 +1439,7 @@
           "_anchor": "contacts1-1b",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1236,7 +1451,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1254,6 +1469,26 @@
           "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00604b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     }

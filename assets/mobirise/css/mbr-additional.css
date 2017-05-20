@@ -58,6 +58,10 @@
   text-align: left;
   font-family: 'Roboto', sans-serif;
 }
+#social-buttons2-1y .mbr-header__text {
+  font-size: 14px;
+  text-align: left;
+}
 #contacts1-o P {
   font-size: 12px;
   color: #ffffff;
@@ -106,6 +110,10 @@
   font-size: 36px;
   color: #333333;
 }
+#social-buttons2-1z .mbr-header__text {
+  font-size: 14px;
+  text-align: left;
+}
 #contacts1-o P {
   font-size: 12px;
   color: #ffffff;
@@ -140,6 +148,10 @@
 #dropdown-menu-x .navbar-toggler {
   color: #000000;
 }
+#social-buttons2-20 .mbr-header__text {
+  font-size: 14px;
+  text-align: left;
+}
 #contacts1-10 P {
   font-size: 12px;
   color: #ffffff;
@@ -173,6 +185,10 @@
 }
 #dropdown-menu-13 .navbar-toggler {
   color: #000000;
+}
+#social-buttons2-21 .mbr-header__text {
+  font-size: 14px;
+  text-align: left;
 }
 #contacts1-16 P {
   font-size: 12px;
@@ -217,6 +233,10 @@
 }
 #msg-box3-1f .mbr-article P {
   font-size: 23px;
+}
+#social-buttons2-22 .mbr-header__text {
+  font-size: 14px;
+  text-align: left;
 }
 #contacts1-1b P {
   font-size: 12px;

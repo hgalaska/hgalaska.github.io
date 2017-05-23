@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 79,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/ae-1-128x122.png",
     "noImageResize": ""
@@ -32,7 +32,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-family": "'Roboto', sans-serif"
@@ -54,7 +54,7 @@
           "_anchor": "dropdown-menu-0",
           "_params": {
             "bgColor": "#2cb698",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -73,9 +73,9 @@
               "src": "@PROJECT_PATH@/assets/images/ae-logo-420x128.png",
               "class": "",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Alaska Exports",
               "link": "",
-              "title": "",
+              "title": "Harvester Finger",
               "linkInNewWindow": false
             }
           },
@@ -139,7 +139,8 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "left",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "23px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
@@ -148,7 +149,8 @@
               "text-align": "left",
               "color": "#000000",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px"
             },
             ".mbr-article UL": {
               "color": "#000000"
@@ -287,7 +289,7 @@
               "src": "https://youtu.be/DEIAsChHC-c",
               "autoplay": "on",
               "loop": "on",
-              "aspectratio": "4:3"
+              "aspectratio": "16:9"
             }
           },
           "text": ""
@@ -299,7 +301,7 @@
           "_name": "social-buttons2",
           "_styles": {
             ".mbr-header__text": {
-              "font-size": "14px",
+              "font-size": "18px",
               "text-align": "left"
             }
           },
@@ -326,13 +328,13 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "12px",
+              "font-size": "13px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
-              "font-size": "14px",
+              "font-size": "15px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
@@ -358,8 +360,8 @@
               "width": 265,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Alaska Exports",
+              "title": "Harvester Finger",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -368,7 +370,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, EPIP, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310&nbsp;(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },
@@ -413,7 +415,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-family": "'Roboto', sans-serif"
@@ -435,7 +437,7 @@
           "_anchor": "dropdown-menu-2",
           "_params": {
             "bgColor": "#2cb698",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -568,11 +570,11 @@
           "_name": "social-buttons2",
           "_styles": {
             ".mbr-header__text": {
-              "font-size": "14px",
+              "font-size": "18px",
               "text-align": "left"
             }
           },
-          "_anchor": "social-buttons2-1z",
+          "_anchor": "social-buttons2-23",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -595,19 +597,19 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "12px",
+              "font-size": "13px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
-              "font-size": "14px",
+              "font-size": "15px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
-          "_anchor": "contacts1-o",
+          "_anchor": "contacts1-1b",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
@@ -637,7 +639,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, EPIP, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310&nbsp;(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },
@@ -682,7 +684,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-family": "'Roboto', sans-serif"
@@ -704,7 +706,7 @@
           "_anchor": "dropdown-menu-x",
           "_params": {
             "bgColor": "#2cb698",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -862,11 +864,11 @@
           "_name": "social-buttons2",
           "_styles": {
             ".mbr-header__text": {
-              "font-size": "14px",
+              "font-size": "18px",
               "text-align": "left"
             }
           },
-          "_anchor": "social-buttons2-20",
+          "_anchor": "social-buttons2-24",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -889,19 +891,19 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "12px",
+              "font-size": "13px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
-              "font-size": "14px",
+              "font-size": "15px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
-          "_anchor": "contacts1-10",
+          "_anchor": "contacts1-1b",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
@@ -931,7 +933,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, EPIP, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310&nbsp;(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },
@@ -976,7 +978,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-family": "'Roboto', sans-serif"
@@ -998,7 +1000,7 @@
           "_anchor": "dropdown-menu-13",
           "_params": {
             "bgColor": "#2cb698",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1134,11 +1136,11 @@
           "_name": "social-buttons2",
           "_styles": {
             ".mbr-header__text": {
-              "font-size": "14px",
+              "font-size": "18px",
               "text-align": "left"
             }
           },
-          "_anchor": "social-buttons2-21",
+          "_anchor": "social-buttons2-25",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -1161,19 +1163,19 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "12px",
+              "font-size": "13px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
-              "font-size": "14px",
+              "font-size": "15px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
-          "_anchor": "contacts1-16",
+          "_anchor": "contacts1-1b",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
@@ -1203,7 +1205,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, EPIP, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310&nbsp;(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },
@@ -1248,7 +1250,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-family": "'Roboto', sans-serif"
@@ -1270,7 +1272,7 @@
           "_anchor": "dropdown-menu-18",
           "_params": {
             "bgColor": "#2cb698",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1417,11 +1419,11 @@
           "_name": "social-buttons2",
           "_styles": {
             ".mbr-header__text": {
-              "font-size": "14px",
+              "font-size": "18px",
               "text-align": "left"
             }
           },
-          "_anchor": "social-buttons2-22",
+          "_anchor": "social-buttons2-26",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -1444,13 +1446,13 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "font-size": "12px",
+              "font-size": "13px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "STRONG": {
-              "font-size": "14px",
+              "font-size": "15px",
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
@@ -1486,7 +1488,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, E.P.I.P, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310<br>(DELHI-NCR) (INDIA)<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, EPIP, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310&nbsp;(DELHI-NCR) (INDIA)<br><br>",
           "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },

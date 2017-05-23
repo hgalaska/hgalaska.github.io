@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "harvester-finger.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -105,7 +105,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
@@ -116,8 +116,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f3-2000x1571.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -297,6 +297,12 @@
             "Theme"
           ],
           "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "social-buttons2-1y",
           "_params": {
             "paddingTop": "1",
@@ -311,13 +317,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       ",
-          "_styles": {
-            ".mbr-header__text": {
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          }
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
@@ -377,6 +377,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "footer1-1t",
           "_params": {
             "paddingTop": "1",
@@ -390,12 +395,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_styles": {
-            "P": {
-              "font-size": "12px"
-            }
-          }
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -622,7 +622,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -646,6 +646,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "footer1-1t",
           "_params": {
             "paddingTop": "1",
@@ -659,12 +664,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_styles": {
-            "P": {
-              "font-size": "12px"
-            }
-          }
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -916,7 +916,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -940,6 +940,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "footer1-1t",
           "_params": {
             "paddingTop": "1",
@@ -953,12 +958,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_styles": {
-            "P": {
-              "font-size": "12px"
-            }
-          }
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -1188,7 +1188,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1212,6 +1212,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "footer1-1t",
           "_params": {
             "paddingTop": "1",
@@ -1225,12 +1230,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_styles": {
-            "P": {
-              "font-size": "12px"
-            }
-          }
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
@@ -1311,7 +1311,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15711.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1322,7 +1322,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x15715.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x15712.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1333,7 +1333,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x15714.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-2000x15711.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1471,7 +1471,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x833.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1495,6 +1495,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "footer1-1t",
           "_params": {
             "paddingTop": "1",
@@ -1508,12 +1513,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_styles": {
-            "P": {
-              "font-size": "12px"
-            }
-          }
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     }

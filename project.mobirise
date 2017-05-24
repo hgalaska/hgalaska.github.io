@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "index.html",
+    "currentPage": "contact-us.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 87,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/ae-1-128x122.png",
     "noImageResize": ""
@@ -94,8 +94,8 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x1572.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -106,7 +106,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-2.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -116,7 +116,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/f4-2000x1572.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
@@ -131,7 +131,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-1k",
+          "_anchor": "slider-2f",
           "articleLayout": false
         },
         {
@@ -477,8 +477,8 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571-2.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -489,7 +489,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-3.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -499,8 +499,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f4-2000x15721.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f4-2000x1572-1.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -514,7 +514,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-2b",
+          "_anchor": "slider-2g",
           "articleLayout": false
         },
         {
@@ -624,7 +624,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -746,8 +746,8 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571-2.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -758,7 +758,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-3.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -768,8 +768,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f4-2000x15721.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f4-2000x1572-1.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -783,7 +783,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-2c",
+          "_anchor": "slider-2h",
           "articleLayout": false
         },
         {
@@ -918,7 +918,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1040,8 +1040,8 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571-2.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1052,7 +1052,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-3.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1062,8 +1062,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f4-2000x15721.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f4-2000x1572-1.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1077,7 +1077,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-2d",
+          "_anchor": "slider-2i",
           "articleLayout": false
         },
         {
@@ -1190,7 +1190,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1312,8 +1312,8 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f1-2000x1571-2.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1324,7 +1324,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-3.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1334,8 +1334,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f4-2000x15721.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f4-2000x1572-1.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1349,7 +1349,7 @@
             "bgColor": "#333333",
             "showBullets": true
           },
-          "_anchor": "slider-2e",
+          "_anchor": "slider-2j",
           "articleLayout": false
         },
         {
@@ -1473,7 +1473,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "index.html",
+    "currentPage": "contact-us.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -500,7 +500,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f3-2000x15711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f3-2000x15713.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -624,7 +624,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -769,7 +769,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f3-2000x15711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f3-2000x15713.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -918,7 +918,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1063,7 +1063,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f3-2000x15711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f3-2000x15713.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1190,7 +1190,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1335,7 +1335,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f3-2000x15711.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f3-2000x15713.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1356,13 +1356,13 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "left",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
             ".mbr-article P": {
-              "font-size": "23px"
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -1473,7 +1473,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,

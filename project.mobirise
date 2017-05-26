@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "index.html",
+    "currentPage": "harvester-finger.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -80,7 +80,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -795,57 +795,93 @@
           "_params": {
             "images": [
               {
-                "caption": "AE<br>3820015",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-2000x1850-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-2000x1850.jpg",
+                "caption": "AE29150<br>BCS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29150-2000x1847-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29150-2000x1847.jpg",
                 "active": false
               },
               {
-                "caption": "AE<br>522182<br>",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-1-2000x1850-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-1-2000x1850.jpg",
+                "caption": "AE74650<br>BCS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74650-2000x1839-800x735.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74650-2000x1839.jpg",
                 "active": false
               },
               {
-                "caption": "AE",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-2-2000x1850-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-2-2000x1850.jpg",
+                "caption": "AE78596<br>BCS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae78596-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae78596-2000x1845.jpg",
                 "active": false
               },
               {
-                "caption": "AE",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-3-2000x1850-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-3-2000x1850.jpg",
+                "caption": "AE29158<br>BIZON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29158-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29158-2000x1848.jpg",
                 "active": false
               },
               {
-                "caption": "AE",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-4-2000x1850-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-4-2000x1850.jpg",
+                "caption": "AE57842<br>BIZON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57842-2000x1844-800x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57842-2000x1844.jpg",
                 "active": false
               },
               {
-                "caption": "AE",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-5-2000x1850-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-5-2000x1850.jpg",
+                "caption": "AE20866<br>CASE IH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20866-2000x1854-800x741.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20866-2000x1854.jpg",
                 "active": false
               },
               {
-                "caption": "379720",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-2000x1855-800x742.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-2000x1855.jpg",
+                "caption": "AE74744<br>CASE IH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74744-2000x1847-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74744-2000x1847.jpg",
                 "active": false
               },
               {
-                "caption": "AE",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-6-2000x1850-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-6-2000x1850.jpg",
+                "caption": "AE57283<br>CASE IH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57283-2000x1836-800x734.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57283-2000x1836.jpg",
                 "active": false
               },
               {
-                "caption": "J20066",
-                "thumb": "@PROJECT_PATH@/assets/images/finger-1-2000x1855-800x742.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finger-1-2000x1855.jpg",
+                "caption": "AE29623<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29626-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29626-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE70087<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae70087-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae70087-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE75880<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae75880-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae75880-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29172<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29172-2000x1841-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29172-2000x1841.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE55830<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae55830-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae55830-2000x1848.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20111<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20111-2000x1851-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20111-2000x1851.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29608<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29608-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29608-2000x1848.jpg",
                 "active": true
               }
             ],

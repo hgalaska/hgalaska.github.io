@@ -265,3 +265,44 @@
 #footer1-1t P {
   font-size: 12px;
 }
+
+
+
+#dropdown-menu-2n .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2n .nav .link,
+#dropdown-menu-2n .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2n .navbar,
+#dropdown-menu-2n .dropdown-menu {
+  background: #2cb698;
+}
+#dropdown-menu-2n .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2n .dropdown-menu a:hover,
+#dropdown-menu-2n .dropdown-menu a:focus {
+  background: #28a68a;
+}
+#dropdown-menu-2n .navbar-toggler {
+  color: #000000;
+}
+#social-buttons2-2q .mbr-header__text {
+  font-size: 18px;
+  text-align: left;
+}
+#contacts1-2r P {
+  font-size: 13px;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#contacts1-2r STRONG {
+  font-size: 15px;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#footer1-2s P {
+  font-size: 12px;
+}

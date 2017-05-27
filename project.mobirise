@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 92,
+    "uniqCompNum": 107,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/ae-1-128x122.png",
     "noImageResize": ""
@@ -478,7 +478,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15727.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -624,7 +624,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -674,7 +674,7 @@
       "settings": {
         "title": "Harvester Finger",
         "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -732,7 +732,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -747,7 +747,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15727.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -879,7 +879,7 @@
                 "active": false
               },
               {
-                "caption": "AE20861<br>DEUTZ",
+                "caption": "AE20861<br>DEUTZ ALLIS",
                 "thumb": "@PROJECT_PATH@/assets/images/ae20861-2000x1845-800x738.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ae20861-2000x1845.jpg",
                 "active": false
@@ -945,16 +945,10 @@
                 "active": false
               },
               {
-                "caption": "AE50988<br>JOHN DEERE",
+                "caption": "AE59311<br>MAIZCO",
                 "thumb": "@PROJECT_PATH@/assets/images/ae59311-2000x1843-800x737.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ae59311-2000x1843.jpg",
-                "active": false
-              },
-              {
-                "caption": "AEAE74795<br>MASSEY FERGUSON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae74795-2000x1845-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae74795-2000x1845.jpg",
-                "active": false
+                "active": true
               },
               {
                 "caption": "AE29175<br>MASSEY FERGUSON",
@@ -1008,7 +1002,7 @@
                 "caption": "AE29608<br>CLAAS",
                 "thumb": "@PROJECT_PATH@/assets/images/ae29608-2000x1848-800x739.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ae29608-2000x1848.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": true,
@@ -1080,7 +1074,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1203,7 +1197,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15727.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1352,7 +1346,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1402,7 +1396,7 @@
       "settings": {
         "title": "Contact Us",
         "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1475,7 +1469,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15727.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1635,7 +1629,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x836.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1665,6 +1659,462 @@
             }
           },
           "_anchor": "footer1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00604b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Alaska Exports . <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "harvester-finger1.html": {
+      "settings": {
+        "title": "Harvester Finger",
+        "meta_descr": "harvester fingers, harvester guards, combine fingers, combine guards, harvester combine guards, harvester combine fingers, grain lifters, crop lifters, Rasp Bars, raspbars, grainlifters, crop lifters, guards, fingers, forged fingers.",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2cb698"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#28a68a"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-2n",
+          "_params": {
+            "bgColor": "#2cb698",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-404x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f21-2000x1571-3.jpg",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f4-2000x1572-1.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Harvester Finger",
+                "showText": true,
+                "text": "Top Quality High Performance",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#333333",
+            "showBullets": true
+          },
+          "_anchor": "slider-2o",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "AE29150<br>BCS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29150-2000x1847-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29150-2000x1847.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE74650<br>BCS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74650-2000x1839-800x735.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74650-2000x1839.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE78596<br>BCS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae78596-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae78596-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29158<br>BIZON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29158-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29158-2000x1848.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE57842<br>BIZON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57842-2000x1844-800x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57842-2000x1844.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20866<br>CASE IH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20866-2000x1854-800x741.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20866-2000x1854.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE74744<br>CASE IH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74744-2000x1847-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74744-2000x1847.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE57283<br>CASE IH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57283-2000x1836-800x734.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57283-2000x1836.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29623<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29626-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29626-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE70087<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae70087-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae70087-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE75880<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae75880-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae75880-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29172<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29172-2000x1841-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29172-2000x1841.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE55830<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae55830-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae55830-2000x1848.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20111<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20111-2000x1851-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20111-2000x1851.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20861<br>DEUTZ ALLIS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20861-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20861-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20185<br>DEUTZ FHAR",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20185-2000x1851-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20185-2000x1851.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE74740<br>DRONNIGBROG",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74740-2000x1840-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74740-2000x1840.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE76377<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae76377-2000x1840-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae76377-2000x1840.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE74790<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74790-2000x1840-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74790-2000x1840.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE74293<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74293-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74293-2000x1848.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE57074<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57074-2000x1842-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57074-2000x1842.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20860<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20860-2000x1831-800x732.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20860-2000x1831.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE71389<br>KUHN",
+                "thumb": "@PROJECT_PATH@/assets/images/ae71389-2000x1840-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae71389-2000x1840.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE70083<br>KUHN",
+                "thumb": "@PROJECT_PATH@/assets/images/ae70083-2000x1839-800x735.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae70083-2000x1839.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20021<br>LAVERDA",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20021-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20021-2000x1848.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE50988<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae59311-2000x1843-800x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae59311-2000x1843.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE74795<br>MASSEY FERGUSON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74795-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74795-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29175<br>MASSEY FERGUSON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29175-2000x1852-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29175-2000x1852.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE27640<br>MASSEY FERGUSON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae27640-2000x1854-800x741.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae27640-2000x1854.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20868<br>MASSEY FERGUSON",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20868-2000x1851-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20868-2000x1851.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE57285<br><br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57285-2000x1840-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57285-2000x1840.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE55835<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae55835-2000x1849-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae55835-2000x1849.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE26235<br>NEW HOLLAND",
+                "thumb": "@PROJECT_PATH@/assets/images/ae26235-2000x1846-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae26235-2000x1846.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20693<br>RAPID",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20693-2000x1840-800x736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20693-2000x1840.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE28621<br>SAMPO",
+                "thumb": "@PROJECT_PATH@/assets/images/ae28621-2000x1852-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae28621-2000x1852.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29608<br>CLAAS",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29608-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29608-2000x1848.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2p",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "18px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "social-buttons2-2q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#dcdcd4",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "13px",
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "STRONG": {
+              "font-size": "15px",
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-2r",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00604b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>ALASKA EXPORTS<br>D-20, EPIP, SURAJPUR, SITE V,<br>KASNA, GREATER NOIDA 201310&nbsp;(DELHI-NCR) (INDIA)<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>info@alaskaexportsindia.com<br>\nTel : +91 120 2428700 (32 Lines)<br>\nFax: +91 120 2428701<br><br>Open: Monday - &nbsp;Saturday<br>Timing: 9am - 6pm (GMT +5.5)",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-2s",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",

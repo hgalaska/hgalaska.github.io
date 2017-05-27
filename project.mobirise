@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "harvester-finger.html",
+    "currentPage": "harvester-finger1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -478,7 +478,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -624,7 +624,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -747,7 +747,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1074,7 +1074,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1197,7 +1197,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1346,7 +1346,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1469,7 +1469,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1629,7 +1629,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1752,7 +1752,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15721.jpg",
+                "image": "@PROJECT_PATH@/assets/images/f1-1-2000x15723.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Harvester Finger",
@@ -1800,224 +1800,44 @@
           "_params": {
             "images": [
               {
-                "caption": "AE29150<br>BCS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae29150-2000x1847-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae29150-2000x1847.jpg",
+                "caption": "AE20888<br>SCH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20888-2000x1843-800x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20888-2000x1843.jpg",
                 "active": false
               },
               {
-                "caption": "AE74650<br>BCS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae74650-2000x1839-800x735.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae74650-2000x1839.jpg",
+                "caption": "AE55831<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae55831-2000x1837-800x734.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae55831-2000x1837.jpg",
                 "active": false
               },
               {
-                "caption": "AE78596<br>BCS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae78596-2000x1845-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae78596-2000x1845.jpg",
+                "caption": "AE76999<br>DEUTZ FHAR",
+                "thumb": "@PROJECT_PATH@/assets/images/ae76699-2000x1839-800x735.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae76699-2000x1839.jpg",
                 "active": false
               },
               {
-                "caption": "AE29158<br>BIZON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae29158-2000x1848-800x739.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae29158-2000x1848.jpg",
+                "caption": "AE20089<br>GASPARDO",
+                "thumb": "@PROJECT_PATH@/assets/images/ae78173-2000x1851-800x740.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae78173-2000x1851.jpg",
                 "active": false
               },
               {
-                "caption": "AE57842<br>BIZON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae57842-2000x1844-800x737.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae57842-2000x1844.jpg",
+                "caption": "AE29224<br>DEUTZ FHAR",
+                "thumb": "@PROJECT_PATH@/assets/images/ae51827-2000x1843-800x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae51827-2000x1843.jpg",
                 "active": false
               },
               {
-                "caption": "AE20866<br>CASE IH",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20866-2000x1854-800x741.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20866-2000x1854.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE74744<br>CASE IH",
-                "thumb": "@PROJECT_PATH@/assets/images/ae74744-2000x1847-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae74744-2000x1847.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE57283<br>CASE IH",
-                "thumb": "@PROJECT_PATH@/assets/images/ae57283-2000x1836-800x734.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae57283-2000x1836.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE29623<br>CLAAS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae29626-2000x1845-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae29626-2000x1845.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE70087<br>CLAAS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae70087-2000x1845-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae70087-2000x1845.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE75880<br>CLAAS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae75880-2000x1845-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae75880-2000x1845.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE29172<br>CLAAS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae29172-2000x1841-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae29172-2000x1841.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE55830<br>CLAAS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae55830-2000x1848-800x739.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae55830-2000x1848.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE20111<br>CLAAS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20111-2000x1851-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20111-2000x1851.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE20861<br>DEUTZ ALLIS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20861-2000x1845-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20861-2000x1845.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE20185<br>DEUTZ FHAR",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20185-2000x1851-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20185-2000x1851.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE74740<br>DRONNIGBROG",
-                "thumb": "@PROJECT_PATH@/assets/images/ae74740-2000x1840-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae74740-2000x1840.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE76377<br>JOHN DEERE",
-                "thumb": "@PROJECT_PATH@/assets/images/ae76377-2000x1840-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae76377-2000x1840.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE74790<br>JOHN DEERE",
-                "thumb": "@PROJECT_PATH@/assets/images/ae74790-2000x1840-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae74790-2000x1840.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE74293<br>JOHN DEERE",
-                "thumb": "@PROJECT_PATH@/assets/images/ae74293-2000x1848-800x739.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae74293-2000x1848.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE57074<br>JOHN DEERE",
-                "thumb": "@PROJECT_PATH@/assets/images/ae57074-2000x1842-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae57074-2000x1842.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE20860<br>JOHN DEERE",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20860-2000x1831-800x732.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20860-2000x1831.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE71389<br>KUHN",
-                "thumb": "@PROJECT_PATH@/assets/images/ae71389-2000x1840-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae71389-2000x1840.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE70083<br>KUHN",
-                "thumb": "@PROJECT_PATH@/assets/images/ae70083-2000x1839-800x735.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae70083-2000x1839.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE20021<br>LAVERDA",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20021-2000x1848-800x739.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20021-2000x1848.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE50988<br>JOHN DEERE",
-                "thumb": "@PROJECT_PATH@/assets/images/ae59311-2000x1843-800x737.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae59311-2000x1843.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE74795<br>MASSEY FERGUSON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae74795-2000x1845-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae74795-2000x1845.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE29175<br>MASSEY FERGUSON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae29175-2000x1852-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae29175-2000x1852.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE27640<br>MASSEY FERGUSON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae27640-2000x1854-800x741.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae27640-2000x1854.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE20868<br>MASSEY FERGUSON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20868-2000x1851-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20868-2000x1851.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE57285<br><br>",
-                "thumb": "@PROJECT_PATH@/assets/images/ae57285-2000x1840-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae57285-2000x1840.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE55835<br>JOHN DEERE",
-                "thumb": "@PROJECT_PATH@/assets/images/ae55835-2000x1849-800x739.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae55835-2000x1849.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE26235<br>NEW HOLLAND",
-                "thumb": "@PROJECT_PATH@/assets/images/ae26235-2000x1846-800x738.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae26235-2000x1846.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE20693<br>RAPID",
-                "thumb": "@PROJECT_PATH@/assets/images/ae20693-2000x1840-800x736.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae20693-2000x1840.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE28621<br>SAMPO",
-                "thumb": "@PROJECT_PATH@/assets/images/ae28621-2000x1852-800x740.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae28621-2000x1852.jpg",
-                "active": false
-              },
-              {
-                "caption": "AE29608<br>CLAAS",
-                "thumb": "@PROJECT_PATH@/assets/images/ae29608-2000x1848-800x739.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae29608-2000x1848.jpg",
+                "caption": "AE26238<br>GASPARDO",
+                "thumb": "@PROJECT_PATH@/assets/images/ae59355-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae59355-2000x1848.jpg",
                 "active": true
               }
             ],
             "showText": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "noGutter": false,
             "showBullets": true
           },
@@ -2085,7 +1905,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x830.png",
+              "src": "@PROJECT_PATH@/assets/images/ae-logo-1-265x832.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,

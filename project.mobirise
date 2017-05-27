@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "harvester-finger.html",
+    "currentPage": "contact-us.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -80,7 +80,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger1.html\"><strong>NEW DEVELOPMENT</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -463,7 +463,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger1.html\"><strong>NEW DEVELOPMENT</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -732,7 +732,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger1.html\"><strong>NEW DEVELOPMENT</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -948,7 +948,7 @@
                 "caption": "AE59311<br>MAIZCO",
                 "thumb": "@PROJECT_PATH@/assets/images/ae59311-2000x1843-800x737.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ae59311-2000x1843.jpg",
-                "active": true
+                "active": false
               },
               {
                 "caption": "AE29175<br>MASSEY FERGUSON",
@@ -958,8 +958,8 @@
               },
               {
                 "caption": "AE27640<br>MASSEY FERGUSON",
-                "thumb": "@PROJECT_PATH@/assets/images/ae27640-2000x1854-800x741.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ae27640-2000x1854.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ae27640-2000x1848-800x739.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae27640-2000x1848.jpg",
                 "active": false
               },
               {
@@ -1003,6 +1003,48 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ae29608-2000x1848-800x739.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ae29608-2000x1848.jpg",
                 "active": false
+              },
+              {
+                "caption": "AE50988<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae50988-2000x1837-800x734.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae50988-2000x1837.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE29977<br>GASPARDO",
+                "thumb": "@PROJECT_PATH@/assets/images/ae29977-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae29977-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE20864<br>FORD",
+                "thumb": "@PROJECT_PATH@/assets/images/ae20864-2000x1834-800x733.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae20864-2000x1834.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE57287<br>CASE IH",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57282-2000x1843-800x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57282-2000x1843.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE57282<br><br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57287-2000x1845-800x738.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57287-2000x1845.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE57289<br><br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ae57289-2000x1833-800x733.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae57289-2000x1833.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE51979<br><br>",
+                "thumb": "@PROJECT_PATH@/assets/images/ae51979-2000x1837-800x734.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae51979-2000x1837.jpg",
+                "active": true
               }
             ],
             "showText": true,
@@ -1182,7 +1224,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger1.html\"><strong>NEW DEVELOPMENT</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -1454,7 +1496,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger1.html\"><strong>NEW DEVELOPMENT</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -1737,7 +1779,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"product.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger.html\"><strong>HARVESTER FINGER</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"harvester-finger1.html\"><strong>NEW DEVELOPMENT</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"feedback.html\" aria-expanded=\"false\">FEEDBACK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -1833,6 +1875,12 @@
                 "caption": "AE26238<br>GASPARDO",
                 "thumb": "@PROJECT_PATH@/assets/images/ae59355-2000x1848-800x739.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ae59355-2000x1848.jpg",
+                "active": false
+              },
+              {
+                "caption": "AE74794<br>JOHN DEERE",
+                "thumb": "@PROJECT_PATH@/assets/images/ae74794-2000x1837-800x734.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ae74794-2000x1837.jpg",
                 "active": true
               }
             ],

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "harvesterfinger",
-    "currentPage": "contact-us.html",
+    "currentPage": "harvester-finger.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1006,7 +1006,7 @@
               }
             ],
             "showText": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "noGutter": false,
             "showBullets": true
           },
